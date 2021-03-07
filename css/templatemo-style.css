@@ -23,6 +23,7 @@ a:hover {
 
 .container-fluid {
   max-width: 1200px;
+
 }
 
 .tm-bg-black-transparent {
@@ -320,5 +321,11 @@ p {
       width: 230px; 
     height: 250px;
     border-radius: 50%;
+  }
+  @media (max-width:1200px){
+      .container-fluid {
+               margin-top:20%;
+
+}
   }
 }
