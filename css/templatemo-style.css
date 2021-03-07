@@ -328,11 +328,10 @@ p {
 
 }
     @media(max-width:1100px){
-        .tm-welcome-title {
-         margin-bottom: 40px;
-          padding-top:30%%;
-          background:none;
-
-    }
+       .tm-welcome-left {
+       padding-right: 30px;
+         padding-top: 20%;
+         padding-bottom: 50px;
+}
   
 }
