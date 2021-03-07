@@ -314,12 +314,11 @@ p {
   }
 }
 
-@media (max-width: 443px) {
-  .tm-brand-name {
-    font-size: 3rem;
-  }
-
-  .tm-brand-container {
-    padding: 25px;
+@media (max-width: 300px) {
+  .img {
+       margin-top:3px;
+      width: 230px; 
+    height: 250px;
+    border-radius: 50%;
   }
 }
