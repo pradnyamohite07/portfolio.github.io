@@ -327,5 +327,10 @@ p {
                margin-top:20%;
 
 }
-  }
+    @media(max-width:1100px){
+ .parallax-window{
+          padding-top:10px;
+          background: transparent;
+    }
+  
 }
