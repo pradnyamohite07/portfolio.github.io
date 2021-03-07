@@ -330,7 +330,7 @@ p {
     @media(max-width:1100px){
         .tm-welcome-title {
          margin-bottom: 40px;
-          margin-top: 80%;
+          padding-top:30%%;
 
     }
   
