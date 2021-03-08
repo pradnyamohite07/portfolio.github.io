@@ -309,10 +309,20 @@ p {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 572px) {
   .tm-brand-container {
      padding: 20px 110px;
     margin-top:20%;
+  }
+}
+
+@media (max-width: 443px) {
+  .tm-brand-name {
+    font-size: 3rem;
+  }
+
+  .tm-brand-container {
+    padding: 25px;
   }
 }
 
