@@ -262,13 +262,13 @@ p {
   color: #525252;
 }
 
-@media only screen and (max-width: 1054px) {
+@media only screen and (max-width: 770px) {
   .tm-contact-item-icon {
     margin-bottom: 15px;
   }
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 770px) {
   .tm-contact-items-container {
     flex-direction: column;
   }
@@ -312,7 +312,7 @@ p {
   }
 }
 
-@media only screen and (max-width: 2000px) {
+@media only screen and (max-width: 770px) {
   .tm-brand-container {
     padding: 45px;
   }
