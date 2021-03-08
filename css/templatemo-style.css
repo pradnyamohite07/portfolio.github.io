@@ -1,3 +1,21 @@
+/**
+
+Mini Profile Template
+
+https://templatemo.com/tm-530-mini-profile
+
+
+Color Codes
+------------
+brown: #986665;
+green: #98cb00;
+orange: #cc6733;
+blue: #3398cc;
+dark-gray: #676767;
+light-gray: #999999;
+text-gray: #6b6b6b;
+
+*/
 
 html {
   -webkit-font-smoothing: antialiased;
@@ -27,8 +45,6 @@ a:hover {
 
 .tm-bg-black-transparent {
   background-color: rgba(0, 0, 0, 0.5);
-  text-align:center;
-  right: 40%;
 }
 
 .tm-bg-white-transparent {
@@ -36,19 +52,19 @@ a:hover {
 }
 
 .tm-bg-green {
-  background-color: #67676733;
+  background-color: #98cb00;
 }
 
 .tm-bg-orange {
-  background-color: #67676733;
+  background-color: #cc6733;
 }
 
 .tm-bg-blue {
-  background-color: #67676733;
+  background-color: #3398cc;
 }
 
 .tm-bg-dark-gray {
-  background-color: #67676733;
+  background-color: #676767;
 }
 
 /*
@@ -61,7 +77,7 @@ a:hover {
 }
 
 .tm-brand-container-outer {
-  margin-top: -500px;
+  margin-top: -400px;
 }
 
 .tm-brand-container-inner {
@@ -75,7 +91,6 @@ a:hover {
 
 .tm-brand-name {
   font-size: 3.8rem;
-  
 }
 
 .tm-brand-description {
@@ -102,12 +117,11 @@ a:hover {
 }
 
 .tm-welcome-title {
-  margin-bottom: 30px;
-  margin-top:20px;
+  margin-bottom: 40px;
 }
 
 .tm-welcome-left {
-  padding-right: 40px;
+  padding-right: 30px;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -164,19 +178,19 @@ a:hover {
 }
 
 .tm-text-green {
-  color: #000000;
+  color: #98cb00;
 }
 
 .tm-text-orange {
-  color: #000000;
+  color: #cc6733;
 }
 
 .tm-text-blue {
-  color: #000000;
+  color: #3398cc;
 }
 
 .tm-text-dark-gray {
-  color: #000000;
+  color: #676767;
 }
 
 .tm-title-small {
@@ -196,10 +210,10 @@ p {
 }
 
 .tm-contact-item {
-  width: 33.3340%;
-  max-width: 350px;
+  width: 33.3334%;
+  max-width: 345px;
   height: auto;
-  min-height: 230px;
+  min-height: 420px;
   margin-right: 35px;
   background-color: white;
   padding: 54px 34px 44px;
@@ -216,7 +230,7 @@ p {
 }
 
 .tm-contact-item-icon {
-  margin-bottom: 5px;
+  margin-bottom: 45px;
   width: 100%;
   height: 160px;
   display: flex;
@@ -237,21 +251,21 @@ p {
 
 .form-control {
   background: transparent;
-  border-color: #000000;
+  border-color: #999999;
   padding: 15px 10px;
   font-size: 1.1rem;
   margin-bottom: 10px;
 }
 
 .tm-btn-submit {
-  background-color: #3834348c;
+  background-color: #999999;
   padding: 12px 30px;
   font-size: 1.2rem;
 }
 
 .tm-btn-submit:focus,
 .tm-btn-submit:hover {
-  background-color: #333030;
+  background-color: #676767;
 }
 
 .tm-copyright-text {
@@ -259,7 +273,7 @@ p {
 }
 
 .tm-link {
-  color: #525252;
+  color: #676767;
 }
 
 @media (max-width: 1054px) {
@@ -312,7 +326,7 @@ p {
   }
 }
 
-@media (max-width: 2000px) {
+@media (max-width: 572px) {
   .tm-brand-container {
     padding: 45px;
   }
