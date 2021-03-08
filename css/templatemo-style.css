@@ -198,7 +198,7 @@ p {
   height: auto;
   min-height: 300px;
   margin-right: 35px;
-  background-color: white;
+  background-color:#0000;
   padding: 54px 34px 44px;
 }
 
@@ -290,7 +290,7 @@ p {
   }
 }
 
-@media (max-width: 730px) {
+@media (max-width: 800px) {
   .tm-portfolio-item {
     flex-direction: column;
   }
@@ -316,7 +316,7 @@ p {
   }
 }
 
-@media (max-width: 443px) {
+@media (max-width: 500px) {
   .tm-brand-name {
     font-size: 3rem;
     
