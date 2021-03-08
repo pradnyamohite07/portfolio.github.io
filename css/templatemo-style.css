@@ -312,9 +312,9 @@ p {
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 770px) {
   .tm-brand-container {
-    padding: 45px;
+    padding: 78px 150px
   }
 }
 
@@ -327,3 +327,8 @@ p {
     padding: 25px;
   }
 }
+
+
+
+
+
