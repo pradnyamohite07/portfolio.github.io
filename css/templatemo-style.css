@@ -104,9 +104,9 @@ a:hover {
 }
 
 .tm-welcome-left {
-  padding-right: 0;
-  padding-top: 0;
-  padding-bottom: 0;
+  padding-right: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .tm-welcome-left-col {
