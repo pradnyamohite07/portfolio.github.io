@@ -327,11 +327,8 @@ p {
   }
 }
 @media(max-width:572){
-    .container-fluid .tm-brand-container
-  .tm-bg-white-transparent .tm-welcome-container{
-                                 padding-right: 0;
-                             padding-top: 0;
-                             padding-bottom:0;
+   .tm-welcome-left-col ..tm-welcome-left{
+                               padding:30%;
   
   }
   
