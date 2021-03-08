@@ -337,7 +337,7 @@ p {
 }
 @media(max-width:572){
 
-  tm-brand-container text-center{
+  .tm-brand-container text-center{
          padding-top:30px;
   }
 }
