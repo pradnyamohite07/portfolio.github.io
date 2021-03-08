@@ -262,13 +262,13 @@ p {
   color: #525252;
 }
 
-@media (max-width: 1054px) {
+@media (max-width: 770px) {
   .tm-contact-item-icon {
     margin-bottom: 15px;
   }
 }
 
-@media (max-width: 991px) {
+@media (max-width: 770px) {
   .tm-contact-items-container {
     flex-direction: column;
   }
@@ -312,7 +312,7 @@ p {
   }
 }
 
-@media (max-width: 2000px) {
+@media (max-width: 770px) {
   .tm-brand-container {
     padding: 45px;
   }
@@ -325,6 +325,10 @@ p {
 
   .tm-brand-container {
     padding: 25px;
+  }
+  .container-fluid{
+               display:flex;
+               flex-direction: column;
   }
 }
 
