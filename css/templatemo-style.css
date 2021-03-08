@@ -334,6 +334,11 @@ p {
     border-radius: 50%;
     padding-top:70px;
   }
+}
+@media(max-width:572){
 
+  tm-brand-container text-center{
+         padding-top:30px;
+  }
 }
 
