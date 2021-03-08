@@ -310,8 +310,8 @@ p {
 }
 
 @media (max-width: 600px) {
-  .tm-brand-container .img {
-    padding: 60px;
+  .tm-brand-container {
+     padding: 20px 110px;
     margin-top:20%;
   }
 }
