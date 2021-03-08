@@ -338,7 +338,7 @@ p {
 @media(max-width:572){
   .tm-welcome-left{
       padding-right: 30%;
-    padding-top: 80%;
+    padding-top: 100%;
     padding-bottom: 20%;
   }
 }
