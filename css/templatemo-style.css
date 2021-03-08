@@ -154,7 +154,7 @@ a:hover {
   text-align: center;
 }
 
-.tm-portfolio-description { 
+.tm-portfolio-description {
   width: calc(100% - 330px);
   padding: 20px 45px;
 }
@@ -177,7 +177,7 @@ a:hover {
 
 .tm-text-dark-gray {
   color: #000000;
-} 
+}
 
 .tm-title-small {
   font-size: 1.3rem;
@@ -262,13 +262,13 @@ p {
   color: #525252;
 }
 
-@media only screen and (max-width: 770px) {
+@media (max-width: 1054px) {
   .tm-contact-item-icon {
     margin-bottom: 15px;
   }
 }
 
-@media only screen and (max-width: 770px) {
+@media (max-width: 991px) {
   .tm-contact-items-container {
     flex-direction: column;
   }
@@ -293,7 +293,7 @@ p {
   }
 }
 
-@media only screen and (max-width: 730px) {
+@media (max-width: 730px) {
   .tm-portfolio-item {
     flex-direction: column;
   }
@@ -312,13 +312,13 @@ p {
   }
 }
 
-@media only screen and (max-width: 770px) {
+@media (max-width: 2000px) {
   .tm-brand-container {
     padding: 45px;
   }
 }
 
-@media only screen and (max-width: 443px) {
+@media (max-width: 443px) {
   .tm-brand-name {
     font-size: 3rem;
   }
@@ -327,5 +327,3 @@ p {
     padding: 25px;
   }
 }
-
-
