@@ -22,13 +22,13 @@ a:hover {
 }
 
 .container-fluid {
-  max-width: 1200px;
+  max-width: 1400px;
+  margin:10px;
+
 }
 
 .tm-bg-black-transparent {
   background-color: rgba(0, 0, 0, 0.5);
-  text-align:center;
-  right: 40%;
 }
 
 .tm-bg-white-transparent {
@@ -75,7 +75,6 @@ a:hover {
 
 .tm-brand-name {
   font-size: 3.8rem;
-  
 }
 
 .tm-brand-description {
@@ -102,13 +101,12 @@ a:hover {
 }
 
 .tm-welcome-title {
-  margin-bottom: 30px;
-  margin-top:20px;
+  margin-bottom: 40px;
 }
 
 .tm-welcome-left {
-  padding-right: 40px;
-  padding-top: 50px;
+  padding-right: 20px;
+  padding-top: 60px;
   padding-bottom: 50px;
 }
 
@@ -262,7 +260,7 @@ p {
   color: #525252;
 }
 
-@media (max-width: 1054px) {
+@media (max-width: 1500px) {
   .tm-contact-item-icon {
     margin-bottom: 15px;
   }
@@ -293,7 +291,7 @@ p {
   }
 }
 
-@media (max-width: 730px) {
+@media (max-width: 800px) {
   .tm-portfolio-item {
     flex-direction: column;
   }
@@ -312,18 +310,29 @@ p {
   }
 }
 
-@media (max-width: 2000px) {
+@media (max-width: 1000px) {
   .tm-brand-container {
-    padding: 45px;
+     padding: 45px;
+     
   }
 }
 
-@media (max-width: 443px) {
+@media (max-width: 500px) {
   .tm-brand-name {
     font-size: 3rem;
+    
   }
 
   .tm-brand-container {
     padding: 25px;
   }
 }
+@media(max-width:1000px){
+   #tm-welcome{
+                padding:30%;
+  
+  }
+  
+}
+
+ 
