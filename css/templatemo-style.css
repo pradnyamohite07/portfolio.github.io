@@ -262,13 +262,13 @@ p {
   color: #525252;
 }
 
-@media (max-width: 1054px) {
+@media only screen and (max-width: 1054px) {
   .tm-contact-item-icon {
     margin-bottom: 15px;
   }
 }
 
-@media (max-width: 991px) {
+@media only screen and (max-width: 991px) {
   .tm-contact-items-container {
     flex-direction: column;
   }
@@ -293,7 +293,7 @@ p {
   }
 }
 
-@media (max-width: 730px) {
+@media only screen and (max-width: 730px) {
   .tm-portfolio-item {
     flex-direction: column;
   }
@@ -312,13 +312,13 @@ p {
   }
 }
 
-@media (max-width: 2000px) {
+@media only screen and (max-width: 2000px) {
   .tm-brand-container {
     padding: 45px;
   }
 }
 
-@media (max-width: 443px) {
+@media only screen and (max-width: 443px) {
   .tm-brand-name {
     font-size: 3rem;
   }
