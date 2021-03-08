@@ -326,10 +326,7 @@ p {
   .tm-brand-container {
     padding: 25px;
   }
-  .container-fluid{
-               display:flex;
-               flex-direction: row;
-               margin-right:35px;
+  
   }
-}
+
 
