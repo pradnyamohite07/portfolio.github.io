@@ -329,10 +329,3 @@ p {
 }
 
 
-
-@media only screen and (max-width: 770px) {
-  .container-fluid .tmWelcome{
-    margin-bottom: 50px;
-    margin-top:50px
-  }
-}
