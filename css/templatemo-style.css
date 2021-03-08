@@ -259,7 +259,7 @@ p {
   color: #525252;
 }
 
-@media (max-width: 1054px) {
+@media (max-width: 1500px) {
   .tm-contact-item-icon {
     margin-bottom: 15px;
   }
@@ -309,7 +309,7 @@ p {
   }
 }
 
-@media (max-width: 572px) {
+@media (max-width: 1000px) {
   .tm-brand-container {
      padding: 45px;
      
