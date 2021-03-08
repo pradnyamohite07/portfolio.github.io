@@ -115,7 +115,7 @@ a:hover {
 }
 
 .tm-welcome-right {
-  color: white;
+  color: #0000;
   background-color: #986665;
   padding: 80px 43px 70px;
   height: 100%;
@@ -198,7 +198,7 @@ p {
   height: auto;
   min-height: 230px;
   margin-right: 35px;
-  background-color:#0000;
+  background-color:#fff;
   padding: 54px 34px 44px;
 }
 
