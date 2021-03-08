@@ -329,7 +329,7 @@ p {
   .container-fluid{
                display:flex;
                flex-direction: row;
-             align-content: space-evenly;
+               margin-right:35px;
   }
 }
 
