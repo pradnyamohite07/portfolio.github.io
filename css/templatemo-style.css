@@ -326,6 +326,9 @@ p {
     padding: 25px;
   }
 }
+.tm-bg-white-transparent .tm-welcome-container{
+                  padding-top:50%;
 
+}
 
 
