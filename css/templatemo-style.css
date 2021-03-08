@@ -270,7 +270,7 @@ p {
 
 @media (max-width: 770px) {
   .tm-contact-items-container {
-    flex-direction: column;
+    flex-direction: row;
   }
 
   .tm-contact-item {
