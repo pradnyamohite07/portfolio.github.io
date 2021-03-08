@@ -1,5 +1,4 @@
 
-
 html {
   -webkit-font-smoothing: antialiased;
   scroll-behavior: smooth;
@@ -23,11 +22,13 @@ a:hover {
 }
 
 .container-fluid {
-  max-width: 1200px;
+  max-width: 1300px;
 }
 
 .tm-bg-black-transparent {
   background-color: rgba(0, 0, 0, 0.5);
+  text-align:center;
+  right: 40%;
 }
 
 .tm-bg-white-transparent {
@@ -74,6 +75,7 @@ a:hover {
 
 .tm-brand-name {
   font-size: 3.8rem;
+  
 }
 
 .tm-brand-description {
@@ -101,6 +103,7 @@ a:hover {
 
 .tm-welcome-title {
   margin-bottom: 40px;
+  margin-top:20px;
 }
 
 .tm-welcome-left {
@@ -194,9 +197,9 @@ p {
 
 .tm-contact-item {
   width: 33.3334%;
-  max-width: 345px;
+  max-width: 350px;
   height: auto;
-  min-height: 420px;
+  min-height: 280px;
   margin-right: 35px;
   background-color: white;
   padding: 54px 34px 44px;
@@ -213,7 +216,7 @@ p {
 }
 
 .tm-contact-item-icon {
-  margin-bottom: 45px;
+  margin-bottom: 5px;
   width: 100%;
   height: 160px;
   display: flex;
@@ -234,21 +237,21 @@ p {
 
 .form-control {
   background: transparent;
-  border-color: #999999;
+  border-color: #000000;
   padding: 15px 10px;
   font-size: 1.1rem;
   margin-bottom: 10px;
 }
 
 .tm-btn-submit {
-  background-color: #999999;
+  background-color: #3834348c;
   padding: 12px 30px;
   font-size: 1.2rem;
 }
 
 .tm-btn-submit:focus,
 .tm-btn-submit:hover {
-  background-color: #676767;
+  background-color: #333030;
 }
 
 .tm-copyright-text {
@@ -256,7 +259,7 @@ p {
 }
 
 .tm-link {
-  color: #676767;
+  color: #525252;
 }
 
 @media (max-width: 1054px) {
@@ -309,7 +312,7 @@ p {
   }
 }
 
-@media (max-width: 572px) {
+@media (max-width: 2000px) {
   .tm-brand-container {
     padding: 45px;
   }
@@ -324,3 +327,4 @@ p {
     padding: 25px;
   }
 }
+
