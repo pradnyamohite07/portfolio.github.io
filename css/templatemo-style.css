@@ -329,9 +329,10 @@ p {
 @media(max-width:572){
 
   .img{
-         width: 230px;
+      width: 230px;
     height: 250px;
     border-radius: 50%;
+    padding-top:70px;
   }
 
 }
