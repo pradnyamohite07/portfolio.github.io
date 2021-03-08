@@ -193,10 +193,10 @@ p {
 }
 
 .tm-contact-item {
-  width: 33.3334%;
-  max-width: 345px;
+  width: 33.3340%;
+  max-width: 350px;
   height: auto;
-  min-height: 300px;
+  min-height: 230px;
   margin-right: 35px;
   background-color:#0000;
   padding: 54px 34px 44px;
