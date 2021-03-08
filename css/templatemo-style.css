@@ -327,8 +327,8 @@ p {
   }
 }
 @media(max-width:1000px){
-   .tm-welcome-left-col .tm-welcome-left{
-                               padding:30%;
+   #tm-welcome{
+                padding:30%;
   
   }
   
